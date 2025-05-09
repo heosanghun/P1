@@ -1,0 +1,52 @@
+{
+    "overall_sentiment": "bullish",
+    "sentiment_score": 0.54,
+    "bullish_ratio": 0.6,
+    "bearish_ratio": 0.0,
+    "neutral_ratio": 0.4,
+    "detailed_scores": [
+        0.9,
+        0.9,
+        0.0,
+        0.9,
+        0.0
+    ],
+    "detailed_results": [
+        {
+            "title": "Bitcoin has reached a new all-time high as institutional investors continue to show interest in the cryptocurrency.",
+            "sentiment": "bullish",
+            "score": 0.9,
+            "text": "Bitcoin has reached a new all-time high as institutional investors continue to show interest in the ...",
+            "method": "deepseek"
+        },
+        {
+            "title": "Technical analysts are pointing to bullish patterns forming in the charts of major crypto assets.",
+            "sentiment": "bullish",
+            "score": 0.9,
+            "text": "Technical analysts are pointing to bullish patterns forming in the charts of major crypto assets. Te...",
+            "method": "deepseek"
+        },
+        {
+            "title": "Despite recent gains, Bitcoin is facing strong resistance at the $50,000 level, with some analysts predicting a potential correction.",
+            "sentiment": "neutral",
+            "score": 0.0,
+            "text": "Despite recent gains, Bitcoin is facing strong resistance at the $50,000 level, with some analysts p...",
+            "method": "deepseek"
+        },
+        {
+            "title": "Recent regulatory announcements have caused significant volatility in the cryptocurrency market.",
+            "sentiment": "bullish",
+            "score": 0.9,
+            "text": "Recent regulatory announcements have caused significant volatility in the cryptocurrency market. Rec...",
+            "method": "deepseek"
+        },
+        {
+            "title": "Traders and investors remain cautious as Bitcoin struggles to break through key resistance levels.",
+            "sentiment": "neutral",
+            "score": 0.0,
+            "text": "Traders and investors remain cautious as Bitcoin struggles to break through key resistance levels. T...",
+            "method": "deepseek"
+        }
+    ],
+    "method": "deepseek"
+}
